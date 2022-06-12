@@ -1,0 +1,44 @@
+html {
+  background: rgb(88, 123, 126);
+}
+
+#main {
+font-family: 'Roboto Mono', monospace;
+margin: 30px 8px;
+padding: 15px;
+width: 60%;
+
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 100%;
+ }
+
+ #img-div {
+
+   width: 100%;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   padding: 50px;
+ }
+
+#tribute-info {
+  text-align: left;
+}
+
+h3 {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
